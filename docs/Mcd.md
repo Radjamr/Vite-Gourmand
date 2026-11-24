@@ -1,6 +1,6 @@
 # MCD - Vite & Gourmand
 
-![MCD](mcd.png)
+![MCD](mcd.svg)
 
 ## Code Mocodo
 
